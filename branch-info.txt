@@ -3,3 +3,4 @@ main
   main:b
 feature1
   feature1:a
+  feature1:b
