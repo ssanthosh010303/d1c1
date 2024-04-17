@@ -1,0 +1,7 @@
+main
+  main:a
+  main:b
+  main:c
+feature1
+  feature1:a
+  feature1:b
